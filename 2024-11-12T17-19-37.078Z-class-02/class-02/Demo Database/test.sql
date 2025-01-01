@@ -1,5 +1,7 @@
 SELECT * FROM users;
 
+SELECT * FROM products;
+
 select `firstName` , `lastName`, `email` from users;
 
 INSERT INTO users
